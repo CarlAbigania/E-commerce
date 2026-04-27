@@ -8,7 +8,6 @@ if ($_SERVER['HTTP_HOST'] === 'localhost' || $_SERVER['HTTP_HOST'] === '127.0.0.
     $password = '';
 } else {
     // PRODUCTION SETTINGS (InfinityFree)
-    // NOTE: Make sure you created a database named 'if0_41769329_shop_free' in your panel
     $host = 'sql100.infinityfree.com';
     $dbname = 'if0_41769329_shop_free';
     $username = 'if0_41769329';
