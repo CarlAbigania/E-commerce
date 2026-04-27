@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'shopping_cart_db';
+$dbname = 'shop_free';
 $username = 'root';
 $password = '';
 
